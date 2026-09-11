@@ -4,7 +4,7 @@
 
 **hardware + software. from PCB to production.**
 
-[![GitHub followers](https://img.shields.io/github/followers/zallkyre?style=flat-square&color=0d0d0f&labelColor=0d0d0f&labelColor=16161a&color=e8e8ea)](https://github.com/zallkyre)
+[![GitHub followers](https://img.shields.io/github/followers/zallkyre?style=flat-square&labelColor=16161a&color=e8e8ea)](https://github.com/zallkyre)
 [![Live site](https://img.shields.io/badge/live-txtwall.xyz-e8e8ea?style=flat-square&labelColor=16161a)](https://txtwall.xyz)
 
 </div>
@@ -13,7 +13,7 @@
 
 ## what i build
 
-i design **physical hardware** and the **software that runs on it** — from KiCad PCBs and ESP32 firmware to AI bots and encrypted web services. everything runs on my own raspberry pi server.
+i design **physical hardware** and the **software that runs on it** — from ESP32 firmware to AI bots and encrypted web services. everything runs on my own raspberry pi server.
 
 ## live right now
 
@@ -33,16 +33,12 @@ i design **physical hardware** and the **software that runs on it** — from KiC
 | [zalks-stats](https://github.com/zallkyre/zalks-stats) | minecraft mod — player stats |
 | [zallkyre.github.io](https://github.com/zallkyre/zallkyre.github.io) | this site |
 
-## in the lab (not yet public)
+## hardware
 
 | project | what it is |
 |---------|-----------|
 | **volos / zzxxzz air deck** | custom ESP32 BLE keyboard deck with OLED — plug-in hardware modules, instant python execution, no drivers |
-| **trafikogreitis** | arduino bicycle speedometer — optocoupler pulse counting, interrupt-driven |
-| **kicakd** | arduino shield PCB designed in KiCad |
-| **groq parkour** | 4 AI agents racing parkour in pygame — fail = death |
 | **qr generator** | dark-mode desktop QR app (customtkinter) |
-| **ble hid** | esp32 bluetooth keyboard firmware + newton's cradle physics sim |
 
 ## stack
 

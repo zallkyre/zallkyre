@@ -27,7 +27,7 @@ i design **physical hardware** and the **software that runs on it** — from ESP
 
 | repo | what it is |
 |------|-----------|
-| [volos](https://github.com/zallkyre/volos) | python library for the volos hardware deck — sim + BLE, zero drivers |
+| [volos](https://github.com/zallkyre/volos) | open-source stream deck — hot-swap kailh keys, snap-on modules, web serial flashing, $25 vs elgato $150 |
 | [txtwall](https://github.com/zallkyre/txtwall) | encrypted anonymous text wall. fastapi + sqlite. live at txtwall.xyz |
 | [AI-Chatbot](https://github.com/zallkyre/AI-Chatbot) | lightweight open-source discord bot with AI memory |
 | [optimizer](https://github.com/zallkyre/optimizer) | open-source windows optimizer in pure powershell |
@@ -38,7 +38,7 @@ i design **physical hardware** and the **software that runs on it** — from ESP
 
 | project | what it is |
 |---------|-----------|
-| **volos / zzxxzz air deck** | custom ESP32 BLE keyboard deck with OLED — plug-in hardware modules, instant python execution, no drivers |
+| **volos** | open-source stream deck / macropad — esp32-s3, kailh hot-swap keys, magnetic snap-on modules (encoder, key cluster, fader), web serial flashing |
 | **qr generator** | dark-mode desktop QR app (customtkinter) |
 
 ## stack

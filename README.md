@@ -19,7 +19,6 @@ i design **physical hardware** and the **software that runs on it** — from ESP
 
 | thing | status |
 |-------|--------|
-| [txtwall.xyz](https://txtwall.xyz) | encrypted anonymous text wall — client-side AES-GCM, zero accounts |
 | [AI-Chatbot](https://github.com/zallkyre/AI-Chatbot) | groq-powered discord bot, 24/7 on a pi 3, per-user memory |
 | [optimizer](https://github.com/zallkyre/optimizer) | honest windows maintenance tool — no fake features, no myths |
 

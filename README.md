@@ -28,7 +28,6 @@ i design **physical hardware** and the **software that runs on it** — from ESP
 | repo | what it is |
 |------|-----------|
 | [volos](https://github.com/zallkyre/volos) | open-source stream deck — hot-swap kailh keys, snap-on modules, web serial flashing, $25 vs elgato $150 |
-| [txtwall](https://github.com/zallkyre/txtwall) | encrypted anonymous text wall. fastapi + sqlite. live at txtwall.xyz |
 | [AI-Chatbot](https://github.com/zallkyre/AI-Chatbot) | lightweight open-source discord bot with AI memory |
 | [optimizer](https://github.com/zallkyre/optimizer) | open-source windows optimizer in pure powershell |
 | [zalks-stats](https://github.com/zallkyre/zalks-stats) | minecraft mod — player stats |

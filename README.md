@@ -20,7 +20,6 @@ i design **physical hardware** and the **software that runs on it** — from ESP
 | thing | status |
 |-------|--------|
 | [AI-Chatbot](https://github.com/zallkyre/AI-Chatbot) | groq-powered discord bot, 24/7 on a pi 3, per-user memory |
-| [optimizer](https://github.com/zallkyre/optimizer) | honest windows maintenance tool — no fake features, no myths |
 
 ## projects
 
@@ -28,7 +27,6 @@ i design **physical hardware** and the **software that runs on it** — from ESP
 |------|-----------|
 | [volos](https://github.com/zallkyre/volos) | open-source stream deck — hot-swap kailh keys, snap-on modules, web serial flashing, $25 vs elgato $150 |
 | [AI-Chatbot](https://github.com/zallkyre/AI-Chatbot) | lightweight open-source discord bot with AI memory |
-| [optimizer](https://github.com/zallkyre/optimizer) | open-source windows optimizer in pure powershell |
 | [zalks-stats](https://github.com/zallkyre/zalks-stats) | minecraft mod — player stats |
 | [zallkyre.github.io](https://github.com/zallkyre/zallkyre.github.io) | this site |
 
@@ -37,7 +35,6 @@ i design **physical hardware** and the **software that runs on it** — from ESP
 | project | what it is |
 |---------|-----------|
 | **volos** | open-source stream deck / macropad — esp32-s3, kailh hot-swap keys, magnetic snap-on modules (encoder, key cluster, fader), web serial flashing |
-| **qr generator** | dark-mode desktop QR app (customtkinter) |
 
 ## stack
 
